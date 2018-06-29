@@ -1,6 +1,6 @@
 {
-  "name": "react-native-vector-icons-qmicon",
-  "version": "1.0.35",
+  "name": "react-native-iconfont-component",
+  "version": "0.0.1",
   "description": "iconfont fontawesome",
   "main": "index.js",
   "bin": {
@@ -31,16 +31,16 @@
     "iconfont"
   ],
   "author": {
-    "name": "qmued",
-    "email": "ued@qianmi.com"
+    "name": "liujhfly",
+    "email": "liujhfly@163.com"
   },
-  "homepage": "https://github.com/angrycans/react-native-vector-icons-iconfont",
+  "homepage": "https://github.com/liujhfly/react-native-iconfont-component",
   "bugs": {
-    "url": "https://github.com/angrycans/react-native-vector-icons-iconfont/issues"
+    "url": "https://github.com/liujhfly/react-native-iconfont-component/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/angrycans/react-native-vector-icons-iconfont.git"
+    "url": "git://github.com/liujhfly/react-native-iconfont-component.git"
   },
   "license": "MIT",
   "rnpm": {
