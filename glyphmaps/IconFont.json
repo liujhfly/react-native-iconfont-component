@@ -1,5 +1,4 @@
 {
-  "guanbi1": 58913,
   "weixinzhifu": 58881,
   "tubiao": 58882,
   "wenti": 58883,
@@ -9,5 +8,21 @@
   "jindubiao-yiyuqi": 58889,
   "lichengbei": 58890,
   "jindubiao-bai": 58891,
-  "weikaishi": 58892
+  "weikaishi": 58892,
+  "check-circle": 59261,
+  "close-circle": 59262,
+  "minus-circle": 59264,
+  "plus-circle": 59265,
+  "right1": 59371,
+  "left1": 59372,
+  "up": 59373,
+  "down": 59374,
+  "check1": 59388,
+  "close1": 59389,
+  "minus": 59390,
+  "plus": 59391,
+  "check-circle-fill": 59460,
+  "minus-circle-fill": 59461,
+  "close-circle-fill": 59462,
+  "plus-circle-fill": 59463
 }
